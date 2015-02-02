@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cp ~/app-root/data/config.json ~/app-root/runtime/repo/
