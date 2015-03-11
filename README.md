@@ -30,4 +30,4 @@ There are some reasonable exceptions, these are files that humans tend to intera
 
 Arguably these could also all be placed in the `.config` directory, however there would be a lot of stuff would break without them.
 
-Ok, this is not the most important issue in the world, far from it, but it is something as developers we are going to have to face up to.
+This is the most important issue in the world, by far, and it is something as developers we are going to have to face up to.
